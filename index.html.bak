@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta charset="utf-8">
-<title>girlfriendsconnection</title>
+<title>doubledatingconnections</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -58,17 +58,17 @@
   </ol>
 
   <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox" style="width:1440px ; height:647px;">
+  <div class="carousel-inner" role="listbox" style="width:100% !important; height:647px;">
     <div class="item active">
-      <img src="images/background1.jpg" alt="..." style="width:1440px !important;height:672px" class="img-responsive">
+      <img src="images/background2.jpg" alt="..." style="width:1440px;height:672px" class="img-responsive">
       
     </div>
     <div class="item">
-      <img src="images/background.jpg" alt="..." style="width:1440px !important;height:672px">
+      <img src="images/background3.jpg" alt="..." style="width:1440px;height:672px">
       
     </div>
     <div class="item">
-      <img src="images/background4.jpg" alt="..." style="width:1440px !important;height:672px">
+      <img src="images/background4.jpg" alt="..." style="width:1440px;height:672px">
       
     </div>
     
@@ -88,13 +88,10 @@
           
         
         <div class="register" style="padding-bottom:0px">
-          <h2>Connecting girlfriends with similar interests</h2>
+          <h2>Connecting couples with similar interests</h2>
           <!-- <h2>&amp; we will fulfill it for you!</h2> -->
           <p>Simply register on our website and we will find your connections based on mutual interests and preferences. </p>
-   <a href="http://girlfriendconnection.jelastic.servint.net/girlfriends/" class="btn reg large_btn">ENTER INTO THE SITE</a>
-   
-   
-   
+   <a href="http://env-7514477.jelastic.servint.net/ddc/" class="btn reg large_btn">ENTER INTO THE SITE</a>
 		
 		  <div style="margin:15px 0"></div>
 
@@ -425,54 +422,52 @@
           <!-- Begin of  .flexslider --> 
           <div class="flexslider">
               <ul class="slides">
-                <!-- <li>
-                 <h1 style="color:#0e5f78;text-transform:none"> Guys looking for new guy friend connections!</h1>
+                <li>
+                 <h1 style="color:#0e5f78;text-transform:none"> couples looking for other couples!</h1>
 				 
-                   <p style="text-align:justify">doubledatingconnection.com is an online service to bring together couples with like interests.  You & your partner can find other couples in  your geographic area to do fun (whatever you consider to be fun) things together.  Do you &  your partner like to golf? bowl? hike? attend wine tastings?  Perhaps, you & your partner would like to join new couples for dinner, a movie, a vacation, etc.  If you’re looking for other couples to socialize with, sign up for doubledatingconnection.com!
+                   <p style="text-align:justify">doubledatingconnection.com is an online service to bring together couples with like 
+					  interests.  You & your partner can find other couples in your geographic area to do fun (whatever you consider to be 
+					  fun) things together.
 				   </p>
 				   
-				   
+				   <p style="text-align:justify"> Do you & your partner like to golf? bowl? hike? attend wine tastings? perhaps, you & your partner would like to meet other couples to vacation with,
+					   have dinner with, go to the movies with, etc. If you're looking for other couples to socialize with, sign up for
+					   doubledatingconnection.com!
+				   </p>
                   <!--i>by John Doe</i-->
-                </li> -->
+                </li>
                 <li>
-                  <h1 style="color:#0e5f78;text-transform:none"> women looking for new girlfriend connections!</h1>
+                  <h1 style="color:#0e5f78;text-transform:none"> meeting couple friends</h1>
                   <p style="text-align:justify">
-					Girlfriendsconnection.com is an online service to bring together women with like interests. 
-					It is designed to enhance your free time by forming relationships with similar women. 
-					You can connect with other women in your geographic area to do fun (whatever you consider to be fun) things together.
-					</p>
-                <p style="text-align:justify">
-				Perhaps you’d like a workout or walking buddy or girlfriends who enjoy going out dancing (in hopes of meeting single, potential dates).  
-				If you’re looking for new girlfriends to socialize with, sign up for girlfriendsconnection.com!
+					Once you have created your profile, you & your partner will be able to browse our network to find your couple connections.
+					You may select matches by any criteria you choose - age, location, hobbies, etc.You will then be able to get in touch 
+					with that couple(s) through doubledatingconnection.com’s website. Ideally, you are on your way to planning a foursome for
+					golf or for dinner!
 
                  </p>
                   <!--i>by Jessica Marcell</i-->
                 </li>
                 <li>
-                  <h1 style="color:#0e5f78;text-transform:none"> why join girlfriendsconnection.com?</h1>
-                <p style="text-align:justify"Women who have recently moved to a new area, who have different interests from their current girlfriends,
-				who want to expand their social networks or whose friends are mostly married (or in relationships) should join girlfriendsconnection.com.
+                  <h1 style="color:#0e5f78;text-transform:none"> why join doubledatingconnection?</h1>
+                <p style="text-align:justify">Many couples move into a new neighborhood or even to a new state and are looking for new friends to join for a double date.  Maybe you have found that your hobbies, vacation goals or favorite restaurants no longer match the tastes of your current couple friends.  
+                  It&#8217s time to join doubledatingconnection.com!
+                  This service was founded by Kim Ciraulo in 2015.  The need was discovered by surveying couples who found that, as their children aged, they had no couple friends with similar hobbies or who were open to new hobbies or who just wanted to expand their social networks.
 				</p>
 				<p style="text-align:justify">
 					
-					girlfriendsconnection.com is designed specifically to help you connect with new friends. To join girlfriendsconnection.com,
-					simply create a profile and provide some background info about yourself, as well as describe what kind of new friends you’re interested in meeting.
+					Doubledatingconnection.com is designed specifically to help you make new couple friends and to enhance your free time by forming relationships 
+					with similar people.  To join doubledatingconnection.com, simply create a profile and provide some background info about yourselves, 
+					as well as describe what type of couples you're interested in meeting.
 				</p>
 				
 				<p style="text-align:justify">
-					Once you’ve created your profile, you will be able to browse our network to find your girlfriend connections.  
-					You may select matches by any criteria you choose – age, location, hobbies, etc.
-				</p>
-				<p style="text-align:justify">
-					You will then be able to get in touch with that new potential girlfriend(s) through girlfriendsconnection.com’s website.  
-					Ideally, you’re on your way to planning an outing with your new girlfriend(s).  
+					With doubledatingconnection, you and your partner can meet couples with similar interests with whom to double date!  
 				</p>
 				
 				<p style="text-align:justify">
-					Sign up for girlfriendsconnection.com today, meet new friends and plan an exciting GNO (girls night out)!
+					It’s time to join Doubledatingconnection.com! 
 				</p>
-				
-			
+				</p>
                   <!--i>by John Doe</i-->
                 </li>
               </ul>
@@ -522,7 +517,7 @@
 	   <section style="padding:50px 0 0 0">
 	  
 		<div class="container" >
-			<h1 style="color:#0e5f78;text-transform:none">Looking to connect with new women? </h1>
+			<h1 style="color:#0e5f78;text-transform:none"> looking to doubledate? </h1>
 			<!-- <p class="para-text" style="text-align:justify">
 				Doubledatingconnection.com is designed specifically to help you make new couple friends and to enhance your free time by forming relationships 
 				with similar people.  To join doubledatingconnection.com, simply create a profile and provide some background info about yourselves, 
@@ -538,13 +533,15 @@
 			</p> -->
 			
 			<p class="para-text" > 
-				There are 30+ online sites for singles to meet other singles to start a romantic relationship.
-				But what about women looking for new girlfriends through a “non-dating” site?  girlfriendsconnection.com is geared for women of any age looking for other women friends.  Many women in their 30s, 40s, 50s & beyond, have core friends that they hang out with which is great.  But what about on the weekend when those female friends are with their husbands or partners?  Are you tired of being a 3rd or 5th wheel to your friends who are part of a couple? Would you like to meet new women who are at the same stage in life as you?
-				Wouldn’t it be nice to have girlfriends who want to go to the movies, vacation or out dancing?
+				There are 30+ online dating sites.  Single women can meet single men & vice versa.  There are sites for singles over 40 and over 50.  
+				If you’re a single parent looking to meet other single parents, there is a site for you.  
+				There are sites available for Jewish singles, Black singles, Christian singles and on and on.
 			</p>
 			
 			<p class="para-text" > 
-				It’s time to join girlfriendsconnection.com!
+				But what about couples? doubledatingconnection.com is geared for any aged couples looking for other couples.  
+				Many couples in their 30s, 40s, 50s & beyond, have core couples that they hang out with which is great.  
+				But what about the rest of the couples out there who would like to meet new people??
 			</p>
 			
 		</div>
@@ -557,8 +554,9 @@
           
 		  <h1 style="color:#0e5f78;text-transform:none">about us</h1>
 		  <p> 
-			Girlfriendsconnection was founded by Kim Ciraulo in 2015.  The need for this service was discovered by surveying women who found that they were at a different stage of life as many of their current girlfriends and simply wanted to connect with women of similar interests, goals & hobbies.
- 
+			doubledatingconnection was founded by Kim Ciraulo in 2015. The need for this service was discovered by surveying 
+			couples who found that, as their children aged, they had no "couple friends" with whom to double date.<br/>
+			Join now!
 		  </p>
 		  
 		  
@@ -650,13 +648,7 @@
     <script src="js/respond.src.js"></script>
     <script src="js/modernizr-2.6.2.js"></script>
    
-<style>
-.carousel-inner {
-    position: relative !important;
-    overflow: hidden !important;
-    width: 100% !important;
-}
-</style>
+
 
 
 </body>
