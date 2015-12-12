@@ -515,7 +515,7 @@ __________________________________________ */
   display: block;
   font-family: 'ChunkFiveRegular', Arial, sans-serif;
   font-size: 3em;
- /*  font-weight: bold; */
+  /* font-weight: bold; */
   line-height: 2em;
   margin: 6% 0 1%;
   text-decoration: none;
@@ -551,6 +551,11 @@ __________________________________________ */
 .rlAccordion > h3 > span {
   float: right;
   font-family: arial, serif, sans-serif;
+  cursor:pointer;
+}
+h3{
+
+cursor:pointer;
 }
 .rlAccordion > h3 + div {
   display: none;
