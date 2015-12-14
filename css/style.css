@@ -517,7 +517,7 @@ label.error {
 +
 -------------------------------------------------------------------------------------- */
 header {
-  background-color: white;
+ /*  background-color: white; */
   height: 506px;
   background: url('../images/girlfriends4.png') no-repeat 50% 0;
   border-top: 3px solid #075c76;
